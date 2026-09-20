@@ -1,0 +1,20 @@
+# Lecture slide decks — kept local, not for public
+*.html
+
+# Arduino / PlatformIO build output
+build/
+.build/
+*.bin
+*.elf
+*.hex
+*.map
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Arduino IDE
+*.tmp
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
